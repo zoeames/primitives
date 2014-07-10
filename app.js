@@ -1,11 +1,11 @@
-// this is a single line comment
+// app.js
 //
-
-/* this 
- * is a 
- * multiline 
- * comment
- */
+// Primitive function
+// This code shows basic tasks in javaScript.  It shows how to define,
+// variables, create if statements, use exponents, use switch,
+//create while loops, and create for loops.
+//
+//Z. Ames 7/8/14
 
 var a = 3;
 var b = 2;
